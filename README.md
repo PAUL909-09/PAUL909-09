@@ -4,7 +4,7 @@ Hello! I'm Paul, an aspiring web developer passionate about building modern, res
 Currently, I’m focusing on Laravel, React, Inertia, and TypeScript, and I enjoy exploring how these technologies can work together to deliver seamless and scalable solutions. My goal is to grow into a full-stack developer who crafts high-performing applications with clean code, strong architecture, and great user experiences.<br><br>
 I believe in continuous learning, adaptability, and pushing myself to improve with every project I take on.
 
----
+
 
 ## 🌐 Portfolio
 Check out my portfolio here 👉 [paul-portfolio.vercel.app](https://paul-portforlio.vercel.app/)
